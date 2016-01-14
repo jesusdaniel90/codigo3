@@ -60,7 +60,7 @@
     <repository>
       <id> idRepo</id>
       <name> nombreRepo</name>
-      <url> file:\\${project.build.testOutputDirectory}/test</url>
+      <url> file:\\${project.build.testOutputDirectory}src/test</url>
     </repository>
 </distributionManagement>
 
