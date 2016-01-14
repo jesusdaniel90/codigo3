@@ -33,6 +33,6 @@ public class MyTest1
      */
     public void testApp()
     {
-        assertTrue( new App2().multiplicacion(5,2) == 3 );
+        assertTrue( new App2().resta(5,2) == 3 );
     }
 }
